@@ -1,15 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="收集1",CCTV1
+#EXTINF:-1 group-title="收集",CCTV1
 http://cfss.cc/api/ysp/cctv1.m3u8
-
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="收集1",CCTV2
+#EXTINF:-1 group-title="收集",CCTV2
 http://cfss.cc/api/ysp/cctv2.m3u8
-
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="收集1",CCTV6
-http://cfss.cc/api/ysp/cctv6.m3u8
-
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="收集1",浙江少儿
+#EXTINF:-1 group-title="收集",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
