@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/cctv1.png",cctv1
-http://cfss.cc/api/ysp/cctv1.m3u8
+http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/cctv2.png",cctv2
 http://cfss.cc/api/ysp/cctv2.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",浙江公共新闻
